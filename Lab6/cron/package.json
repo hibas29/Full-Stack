@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-cron": "^4.2.1"
+  },
+  "name": "cron",
+  "version": "1.0.0",
+  "main": "corn.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node corn.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
