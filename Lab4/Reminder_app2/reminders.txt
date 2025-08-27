@@ -1,0 +1,2 @@
+Task: nap | Delay: 20s
+Task: sgdys | Delay: 5s
